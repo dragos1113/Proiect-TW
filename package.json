@@ -1,0 +1,35 @@
+{
+  "name": "proiect-tw",
+  "version": "1.0.0",
+  "description": "proiect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jocuri",
+    "pentru",
+    "playstation",
+    "playstation",
+    "playstation4",
+    "playstation5",
+    "jocuri",
+    "pentru",
+    "xbox",
+    "xbox",
+    "one",
+    "xbox",
+    "360",
+    "jocuri",
+    "nintendo",
+    "switch",
+    "nintendo",
+    "switch"
+  ],
+  "author": "stroescu-dragos-ionut",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
